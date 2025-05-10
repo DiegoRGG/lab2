@@ -1,0 +1,4 @@
+tensorflow
+mtcnn
+opencv-python
+Flask 
